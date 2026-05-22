@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5325",
+  "folder": "YouTube__watch_20260522000256_f05ece",
+  "base_name": "Players_see_this_Cross_minecraft_6P97p2Uj4rc_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ropebunny/megicula-2/releases/tag/co-releases-v1-5325",
+  "files": [
+    {
+      "name": "Players_see_this_Cross_minecraft_6P97p2Uj4rc_480p.mp4",
+      "url": "https://github.com/ropebunny/megicula-2/releases/download/co-releases-v1-5325/Players_see_this_Cross_minecraft_6P97p2Uj4rc_480p.mp4",
+      "api_url": "https://api.github.com/repos/ropebunny/megicula-2/releases/assets/426592774",
+      "id": 426592774,
+      "size": 1702685,
+      "download_count": 0
+    }
+  ]
+}
